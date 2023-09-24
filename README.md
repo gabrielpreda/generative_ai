@@ -1,3 +1,3 @@
 # Introduction
 
-Code on Kagge that uses Gen AI tools
+Code on Kaggle that uses Gen AI tools
